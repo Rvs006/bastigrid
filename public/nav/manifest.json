@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "cs": 0.075,
+  "area": {
+    "cx": 75,
+    "cy": -48,
+    "half": 90
+  },
+  "dataBytes": 123498,
+  "generatedAt": "2026-09-04T10:32:27.416Z",
+  "profiles": {
+    "stretcher": {
+      "file": "/nav/stretcher.bin",
+      "bytes": 907592,
+      "bakeMs": 1702
+    },
+    "walker": {
+      "file": "/nav/walker.bin",
+      "bytes": 1022664,
+      "bakeMs": 1682
+    }
+  }
+}
